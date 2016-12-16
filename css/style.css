@@ -37,9 +37,9 @@ body{
 
 .contacts p{
 	width: 90px;
-	margin-top: 120px;
+	margin-top: 100px;
 	color: white;
-	font-size: 8px;
+	font-size: 10px;
 }
 
 
@@ -79,7 +79,7 @@ footer{
 
 
 footer p{
-	margin-left: 435px;
+	text-align: center;
 	color: white;
 	font-size: 10px;
 }
